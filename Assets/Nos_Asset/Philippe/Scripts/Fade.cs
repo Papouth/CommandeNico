@@ -13,7 +13,7 @@ public class Fade : MonoBehaviour
     {
         _canvasGroup = GetComponent<CanvasGroup>();
 
-        _fadeIn = true;
+        _fadeOut = true;
     }
 
     private void Update()
