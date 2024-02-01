@@ -42,7 +42,7 @@ Material:
         m_Offset: {x: 0, y: 0}
     m_Ints: []
     m_Floats:
-    - _Interaction_Distance: 1
+    - _Interaction_Distance: 2.25
     - _QueueControl: 0
     - _QueueOffset: 0
     - _Scale: 0.01
