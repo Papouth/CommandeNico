@@ -7,32 +7,32 @@ ModelImporter:
   - first:
       type: UnityEngine:Material
       assembly: UnityEngine.CoreModule
-      name: Bois
+      name: Bois.001
     second: {fileID: 2100000, guid: c2d837a6ecdde104e829c1dc3bae3f38, type: 2}
   - first:
       type: UnityEngine:Material
       assembly: UnityEngine.CoreModule
-      name: Glass
+      name: Glass.001
     second: {fileID: 2100000, guid: 51345344a1e337b41bcc43d78a54362d, type: 2}
   - first:
       type: UnityEngine:Material
       assembly: UnityEngine.CoreModule
-      name: Mur
+      name: Mur.001
     second: {fileID: 2100000, guid: 4369a3fa6ce55594eaec2f759b3c1106, type: 2}
   - first:
       type: UnityEngine:Material
       assembly: UnityEngine.CoreModule
-      name: Plafond
+      name: Plafond.001
     second: {fileID: 2100000, guid: 16ef3ee65577bed4283d6944d0cf74d4, type: 2}
   - first:
       type: UnityEngine:Material
       assembly: UnityEngine.CoreModule
-      name: Plinthe
+      name: Plinthe.001
     second: {fileID: 2100000, guid: c94f6bf629e306c47b1463d8a779edf6, type: 2}
   - first:
       type: UnityEngine:Material
       assembly: UnityEngine.CoreModule
-      name: Sol
+      name: Sol.001
     second: {fileID: 2100000, guid: 28cceaa458830dc44a971ffd6babc9ff, type: 2}
   materials:
     materialImportMode: 2
@@ -78,7 +78,7 @@ ModelImporter:
     nodeNameCollisionStrategy: 1
     fileIdsGeneration: 2
     swapUVChannels: 0
-    generateSecondaryUV: 0
+    generateSecondaryUV: 1
     useFileUnits: 1
     keepQuads: 0
     weldVertices: 1
@@ -91,7 +91,7 @@ ModelImporter:
     meshOptimizationFlags: -1
     indexFormat: 0
     secondaryUVAngleDistortion: 8
-    secondaryUVAreaDistortion: 15.000001
+    secondaryUVAreaDistortion: 15
     secondaryUVHardAngle: 88
     secondaryUVMarginMethod: 1
     secondaryUVMinLightmapResolution: 40
