@@ -115,7 +115,7 @@ PrefabInstance:
         type: 3}
       propertyPath: m_Materials.Array.data[0]
       value: 
-      objectReference: {fileID: 2100000, guid: 78c9c8714dfd5d34bba48a495097c1d4, type: 2}
+      objectReference: {fileID: 2100000, guid: 2e4b95247109c034594ef8cea0a9dbf5, type: 2}
     - target: {fileID: -1154841357057571528, guid: 5526679a80f772c4da716ffb3df0ea7b,
         type: 3}
       propertyPath: m_CastShadows
@@ -125,7 +125,7 @@ PrefabInstance:
         type: 3}
       propertyPath: m_Materials.Array.data[0]
       value: 
-      objectReference: {fileID: 2100000, guid: cf0410db08c0cbb44b7fe542ee707540, type: 2}
+      objectReference: {fileID: 2100000, guid: 14c366ac1c2cc0744b642be9d564a835, type: 2}
     - target: {fileID: -922505593667241258, guid: 5526679a80f772c4da716ffb3df0ea7b,
         type: 3}
       propertyPath: m_StaticEditorFlags
