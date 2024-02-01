@@ -11,7 +11,7 @@ GameObject:
   - component: {fileID: 2994967227367406814}
   - component: {fileID: 2774056345664683866}
   m_Layer: 0
-  m_Name: Grass
+  m_Name: Fur
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -132,7 +132,7 @@ PrefabInstance:
     - target: {fileID: 919132149155446097, guid: d4fdba1a79ae91443a2a5cf41de14e11,
         type: 3}
       propertyPath: m_Name
-      value: Grass LOD0
+      value: Fur LOD0
       objectReference: {fileID: 0}
     - target: {fileID: 7339356831882890532, guid: d4fdba1a79ae91443a2a5cf41de14e11,
         type: 3}
@@ -239,7 +239,7 @@ PrefabInstance:
     - target: {fileID: 919132149155446097, guid: ddf6b2c4d0e6b9f49814681eef8e5bd2,
         type: 3}
       propertyPath: m_Name
-      value: Grass LOD1
+      value: Fur LOD1
       objectReference: {fileID: 0}
     - target: {fileID: 7339356831882890532, guid: ddf6b2c4d0e6b9f49814681eef8e5bd2,
         type: 3}
