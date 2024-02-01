@@ -58,11 +58,21 @@ PrefabInstance:
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
       objectReference: {fileID: 0}
+    - target: {fileID: -8148982522513443090, guid: bfb30596c47f54c418bb19579c80848a,
+        type: 3}
+      propertyPath: m_Materials.Array.data[0]
+      value: 
+      objectReference: {fileID: 2100000, guid: 15df9f11d76c3224d941df72cb42180e, type: 2}
     - target: {fileID: 919132149155446097, guid: bfb30596c47f54c418bb19579c80848a,
         type: 3}
       propertyPath: m_Name
       value: Commode Variant
       objectReference: {fileID: 0}
+    - target: {fileID: 2947827193252260316, guid: bfb30596c47f54c418bb19579c80848a,
+        type: 3}
+      propertyPath: m_Materials.Array.data[0]
+      value: 
+      objectReference: {fileID: 2100000, guid: 6f0cb01d61b152a40a694703f981e2b9, type: 2}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
     m_AddedGameObjects: []
