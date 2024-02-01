@@ -42,15 +42,15 @@ Material:
         m_Offset: {x: 0, y: 0}
     m_Ints: []
     m_Floats:
-    - _Interaction_Distance: 2.13
+    - _Interaction_Distance: 1
     - _QueueControl: 0
     - _QueueOffset: 0
-    - _Scale: 0.02
-    - _Smoothness: 0.4
+    - _Scale: 0.01
+    - _Smoothness: 0.2
     - _Speed: 3
-    - _Strength: 2
+    - _Strength: 2.7
     m_Colors:
-    - _MainColor: {r: 1, g: 1, b: 1, a: 1}
+    - _MainColor: {r: 0.81568635, g: 0.4784314, b: 0.41176474, a: 1}
   m_BuildTextureStacks: []
 --- !u!114 &789190915902551977
 MonoBehaviour:
