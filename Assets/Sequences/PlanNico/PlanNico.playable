@@ -15,8 +15,8 @@ MonoBehaviour:
   m_Version: 0
   m_Tracks:
   - {fileID: 4263749527858077713}
-  - {fileID: 6364207401536911299}
   - {fileID: 6540680005703091863}
+  - {fileID: 6364207401536911299}
   - {fileID: 6745692303486134573}
   m_FixedDuration: 0
   m_EditorSettings:
@@ -24,22 +24,6 @@ MonoBehaviour:
     m_ScenePreview: 1
   m_DurationMode: 0
   m_MarkerTrack: {fileID: 0}
---- !u!114 &683144059494882823
-MonoBehaviour:
-  m_ObjectHideFlags: 1
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 0}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: 90fb794a295e73545af71bcdb7375791, type: 3}
-  m_Name: CinemachineShot
-  m_EditorClassIdentifier: 
-  DisplayName: 
-  VirtualCamera:
-    exposedName: 36b1badf120ae2540b42c822684c9b5c
-    defaultValue: {fileID: 0}
 --- !u!114 &4263749527858077713
 MonoBehaviour:
   m_ObjectHideFlags: 1
@@ -64,8 +48,8 @@ MonoBehaviour:
   - m_Version: 1
     m_Start: 0
     m_ClipIn: 0
-    m_Asset: {fileID: 683144059494882823}
-    m_Duration: 3.183333333333333
+    m_Asset: {fileID: 7759319022934960247}
+    m_Duration: 5
     m_TimeScale: 1
     m_ParentTrack: {fileID: 4263749527858077713}
     m_EaseInDuration: 0
@@ -129,7 +113,7 @@ MonoBehaviour:
     m_PreExtrapolationMode: 0
     m_PostExtrapolationTime: 0
     m_PreExtrapolationTime: 0
-    m_DisplayName: Travelling
+    m_DisplayName: Virtual Camera
   m_Markers:
     m_Objects: []
 --- !u!114 &6364207401536911299
@@ -237,3 +221,19 @@ MonoBehaviour:
   m_Clips: []
   m_Markers:
     m_Objects: []
+--- !u!114 &7759319022934960247
+MonoBehaviour:
+  m_ObjectHideFlags: 1
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 90fb794a295e73545af71bcdb7375791, type: 3}
+  m_Name: CinemachineShot
+  m_EditorClassIdentifier: 
+  DisplayName: 
+  VirtualCamera:
+    exposedName: 247b33c2650f06143a5c10b00069517e
+    defaultValue: {fileID: 0}
